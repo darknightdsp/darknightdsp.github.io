@@ -40,7 +40,7 @@
 
 
     <br><br><br><br>
-    <h1>Baptiste - Hacker Éthique</h1>
+    <h1>Baptiste - Ethical Hacker</h1>
     <p>Welcome to my GitHub page ! My name is Baptiste, I'm an ethical hacker.</p>
     
     <div class="quote">"Sécuriser le présent, façonner le futur."</div>
