@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Byrus - Hacker Éthique</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -38,13 +37,13 @@
     </style>
 </head>
 <body>
-    <h1>Byrus - Hacker Éthique</h1>
-    <p>Bienvenue sur ma page GitHub ! Je suis un hacker éthique passionné par la sécurité informatique.</p>
+    <h1>Baptiste - Hacker Éthique</h1>
+    <p>Welcome to my GitHub page ! My name is Baptiste, I'm an ethical hacker.</p>
     
     <div class="quote">"Sécuriser le présent, façonner le futur."</div>
 
     <div class="contact">
-        <p>Pour me contacter :</p>
+        <p>Contact me :</p>
         <p><a href="https://github.com/darknightdsp" target="_blank">GitHub</a> | <a href="https://twitter.com/byrus_dsp" target="_blank">Twitter</a></p>
     </div>
 </body>
