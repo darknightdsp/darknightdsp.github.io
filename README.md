@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,24 +7,23 @@
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #ffffff; /* Fond blanc */
-            color: #2c3e50; /* Texte noir */
+            background-color: #ffffff;
+            color: #2c3e50;
             margin: 40px;
             text-align: center;
         }
 
         h1 {
             color: #3498db;
-            text-shadow: 2px 2px 4px #2980b9;
         }
 
         p {
-            color: #2c3e50; /* Texte noir */
+            color: #2c3e50;
         }
 
         .quote {
             font-style: italic;
-            color: #2c3e50; /* Texte noir */
+            color: #2c3e50;
             margin-top: 10px;
         }
 
@@ -53,3 +53,4 @@
     </div>
 </body>
 </html>
+
