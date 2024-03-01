@@ -48,7 +48,7 @@
 
     <div class="contact">
         <p>Contact me :</p>
-        <p><a href="https://github.com/byrus" target="_blank">GitHub</a> | <a href="https://twitter.com/byrus_dsp" target="_blank">Twitter</a></p>
+        <p><a href="https://github.com/darknightdsp" target="_blank">GitHub</a> | <a href="https://twitter.com/byrus_dsp" target="_blank">Twitter</a></p>
     </div>
 </body>
 </html>
