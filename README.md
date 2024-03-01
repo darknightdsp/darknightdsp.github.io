@@ -1,14 +1,13 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Byrus - Hacker Éthique</title>
+    <title>Ethical - Hacker</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #2c3e50;
-            color: #ecf0f1;
+            background-color: #ffffff; /* Fond blanc */
+            color: #2c3e50; /* Texte noir */
             margin: 40px;
             text-align: center;
         }
@@ -19,12 +18,12 @@
         }
 
         p {
-            color: #ecf0f1;
+            color: #2c3e50; /* Texte noir */
         }
 
         .quote {
             font-style: italic;
-            color: #ecf0f1;
+            color: #2c3e50; /* Texte noir */
             margin-top: 10px;
         }
 
@@ -44,7 +43,7 @@
 </head>
 <body>
     <h1>Ethical - Hacker</h1>
-    <p>Welcome to my web page. My name is Baptiste and I'm an ethical hacker</p>
+    <p>Welcome to my web page. My name is Baptiste and I'm an ethical hacker.</p>
     
     <div class="quote">"Sécuriser le présent, façonner le futur."</div>
 
